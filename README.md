@@ -1,7 +1,9 @@
 # Workshop 02 – Building a Node.js HTTP Server
-This isproject is part of Laurea's Full Stack Development course. The goal of this workshop was to learn the fundamentals of **Node.js HTTP server** and **manual routing** by building a simple web server from scratch without using any frameworks.
+This project is part of Laurea's Full Stack Development course. The goal of this workshop was to learn the fundamentals of **Node.js HTTP server** and **manual routing** by building a simple web server from scratch without using any frameworks.
 
 The server handles static files, custom routes, CSS and custom error pages.
+
+This server has been deployed as a live web service in [Render](https://workshop02-node-server.onrender.com).
 
 ## Topics Covered
 - Node.js `http` module
