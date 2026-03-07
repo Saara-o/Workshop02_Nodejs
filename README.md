@@ -3,8 +3,6 @@ This project is part of Laurea's Full Stack Development course. The goal of this
 
 The server handles static files, custom routes, CSS and custom error pages.
 
-This server has been deployed as a live web service in [Render](https://workshop02-node-server.onrender.com).
-
 ## Topics Covered
 - Node.js `http` module
 - File system operations with `fs` module
